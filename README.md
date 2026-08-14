@@ -32,8 +32,9 @@ Certificates/
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- GitHub: https://github.com/arishaabrarsudo8
+- LinkedIn: https://www.linkedin.com/in/ArishaAbrar
+  
 
 ---
 
